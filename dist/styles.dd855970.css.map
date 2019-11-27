@@ -1,0 +1,1 @@
+{"version":3,"sources":["src/styles.css"],"names":[],"mappings":"AAAA;AACA;AACA;AACA;AACA;AACA;AACA;AACA;AACA","file":"styles.dd855970.css","sourceRoot":"..","sourcesContent":["body {\r\n  font-family: sans-serif;\r\n}\r\n#gameScreen {\r\n\tborder: 1px solid black;\r\n}\r\nimg {\r\n\tdisplay: none;\r\n}"]}

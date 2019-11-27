@@ -12,5 +12,15 @@
     "@babel/core": "7.2.0",
     "parcel-bundler": "^1.6.1"
   },
-  "keywords": []
+  "keywords": [],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/phish3144/Breakthrough.git"
+  },
+  "author": "Finn Bach",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/phish3144/Breakthrough/issues"
+  },
+  "homepage": "https://github.com/phish3144/Breakthrough#readme"
 }
